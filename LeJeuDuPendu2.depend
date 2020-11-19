@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605798578 source:d:\home\documents\ludus f2\algo\nouveau dossier\lejeudupendu2\affichage.c
+	"define.h"
+
+1605798387 d:\home\documents\ludus f2\algo\nouveau dossier\lejeudupendu2\define.h
+
+1605798910 source:d:\home\documents\ludus f2\algo\nouveau dossier\lejeudupendu2\character.c
+	"define.h"
+
+1605798889 source:d:\home\documents\ludus f2\algo\nouveau dossier\lejeudupendu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
