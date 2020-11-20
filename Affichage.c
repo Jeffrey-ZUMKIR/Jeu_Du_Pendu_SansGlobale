@@ -27,13 +27,13 @@ char * modifAffich(int nbIncorrect, char c_pendu[][5]){
             c_pendu[3][2]='/';
             break;
         case 4:
-            c_pendu[3][4]='|';
+            c_pendu[3][4]='\\';
             break;
         case 5:
             c_pendu[4][2]='/';
             break;
         case 6:
-            c_pendu[4][4]='|';
+            c_pendu[4][4]='\\';
             break;
     }
     return c_pendu;
